@@ -70,9 +70,7 @@ def lee_documentos(file, nombres):
                         str.maketrans('','',string.digits))\
                         .str.translate(\
                        str.maketrans('','',string.punctuation))\
-                .str.replace('«','',regex=True)\
-                .str.replace('»','',regex=True).str.replace('(','',regex=True)\
-                .str.replace(')','',regex=True).str.strip()
+                .str.replace('«','',regex=True).str.replace('»','',regex=True).str.replace('(','',regex=True).str.replace(')','',regex=True).str.strip()
                 palabras = r.tolist()
                 #elimino las stopwords
                 texto = [w for w in palabras \
