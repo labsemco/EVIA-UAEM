@@ -1,0 +1,78 @@
+Github: https://github.com/labsemco/EVIA-UAEM
+
+1. Instalación de weka
+https://www.cs.waikato.ac.nz/~ml/weka/
+- Descargar
+- Apartado de Stable version
+- Elegir el sistema operativo
+
+2. Explicación de framework y sus opciones
+- Weka: Waikato Environment for Knowledge Analysis: es una colección de algoritmos de aprendizaje automático para tareas de minería de datos. Contiene herramientas para la preparación de datos, clasificación, regresión, agrupación, minería de reglas de asociación y visualización.
+- Explorer
+- Experimenter
+- KnowledgeFlow
+- Workbench
+- Simple CLI
+
+3. Explorer
+- Explicación de opciones
+	1. Preprocesar. Elegir y modificar los datos sobre los que se va a actuar.
+	2. Clasificar. Entrenar y probar esquemas de aprendizaje de clasificación o regresión.
+	3. Cluster. Aprender agrupamiento para los datos.
+	4. Asociar. Aprende reglas de asociación para los datos.
+	5. Seleccionar atributos. Selecciona los atributos más relevantes de los datos.
+	6. Visualizar. Visualice un gráfico 2D interactivo de los datos.
+
+4. Definición del objetivo
+    - ¿Cúal es el problema?
+    - Recopilación 
+    - Preparación de datos
+    - Exploración de los datos
+    - Elección y entrenamiento de modelo
+    - Evaluación del modelo
+    - Análisis de resultados y errores
+
+5. Primer ejercicio de regresión
+- Modelar el comportamiento de los datos del problema.
+- El análisis de regresión es un método de análisis estadístico para determinar la relación cuantitativa entre dos o más variables. Un método de análisis estadístico que estudia la dependencia de la variable dependiente de la variable independiente durante la regresión, con el propósito de estimar o predecir el valor medio de la variable dependiente a través del valor dado de la variable independiente.
+- Archivos (Corpus de airline.arff)
+- Atributos (ver las columnas)
+- Editor de datos (ver los ejemplos)
+- Filtros (Agregar ID)
+- Guardar datos proprocesados
+- Visualizar de gráficas
+- Tipos de datos
+- Visualize (alt+shift+clic_izq)
+- Classifier
+- Escoger el modelo (regresion lineal)
+- Opciones de prueba (use training set)
+- Escoger la variable dependiente (valor que se va a predecir) e independiente.
+- Iniciar proceso.
+- Analizar la salida del clasificador (elegir salida de predicciones)
+- Mostrar gráfica de error (explicarlo) 
+- Comparar y mostrar la línea de regresión
+- Guardar salida del buffer
+- Guardar modelo
+- Entender los resultados del entrenamiento (Coeficiente de correlación, Kendall's Tau, Spearman's rho, error e instancias)
+- ¿Qué se realiza a continuación?
+- Generar predicciones bajo el modelo obtenido de instancias de 145-150
+- Evaluar con la opcion de conjunto de prueba (crear el csv con datos predecidos y Reevaluar)
+- Analizar resultados
+
+5. Ejercicio 2.  Boston Houses (Regresión/boston_housing_housing.csv)
+- Actividad: Modelar el comportamiento del conjunto de datos con otros atributos de RM, LSTAT y PTRATIO, para analizar como influye (predice) en el valor de la propiedad MEDV.
+
+Sugerencia: Instalar el visualizador en 3D.
+
+Datos:
+RM: Número promedio de habitaciones por vivienda
+LSTAT: Porcentaje de población de “estatus de bajo nivel”
+PTRATIO: Ratio de alumnos por profesor
+MEDV: Mediana del valor de viviendas en propiedad (en miles de dólares)
+
+6. Ejercicio 3. (Regresión/LogisticRegressionToPredictHeartDisease)
+Analizar si es posible aplicar regresión lineal al conjunto de datos de Enfermedad del corazón.
+¿Qué datos son los más relevantes? ¿Qué es lo que se quiere predecir?
+
+
+
