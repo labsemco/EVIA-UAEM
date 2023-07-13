@@ -15,7 +15,7 @@
 </a>
 
   * Word Embbedings: Notebook para crear, embeddings de un corpus dado con Word2vec.
-  <a target="_blank" href="https://colab.research.google.com/github/labsemco/EVIA-UAEM/blob/main/Modelos%20de%20Lenguaje/Notebooks/modelos_ngramas.ipynb">
+  <a target="_blank" href="https://colab.research.google.com/github/labsemco/EVIA-UAEM/blob/main/Representaciones%20Incrustadas/PRACTICA%20PCA-W2V/Wiki_W2V_all.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
