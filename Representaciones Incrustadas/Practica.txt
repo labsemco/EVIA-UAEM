@@ -1,0 +1,7 @@
+Para poder utilizar la notebook es necesario subirla o abrirla con google colab
+de la misma forma, se requiere copiar los archivos siguientes, manteniendo la estructura:
+ - /content/datos/textosWiki_1
+ - /content/datos/data_frame_4K.pkl
+ - /content/wiki.py
+
+Una vez logrado esto, se requiere ejecutar todas las celdas, para su procesmaiento.
