@@ -7,6 +7,7 @@
   <a target="_blank" href="https://colab.research.google.com/github/labsemco/EVIA-UAEM/blob/main/Modelos%20de%20Lenguaje/Notebooks/modelos_ngramas.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
   * Modelo vectorial: Notebook para crear, utilizar y evaluar la modelación vectorial de documentos para un corpus dado.
   <a target="_blank" href="https://colab.research.google.com/github/labsemco/EVIA-UAEM/blob/main/Modelos%20Vectoriales/ModeloVectorial.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
