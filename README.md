@@ -7,5 +7,23 @@
   <a target="_blank" href="https://colab.research.google.com/github/labsemco/EVIA-UAEM/blob/main/Modelos%20de%20Lenguaje/Notebooks/modelos_ngramas.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+  * Modelo vectorial: Notebook para crear, utilizar y evaluar la modelación vectorial de documentos para un corpus dado.
+
+  <a target="_blank" href="https://colab.research.google.com/github/labsemco/EVIA-UAEM/blob/main/Modelos%20Vectoriales/ModeloVectorial.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+  * Word Embbedings: Notebook para crear, embeddings de un corpus dado con Word2vec.
+  <a target="_blank" href="https://colab.research.google.com/github/labsemco/EVIA-UAEM/blob/main/Representaciones%20Incrustadas/PRACTICA%20PCA-W2V/Wiki_W2V_all.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+  * PCA_LSA: Notebook para crear, embeddings de un corpus dado con Word2vec y reducción de dimensionalidades.
+  <a target="_blank" href="https://colab.research.google.com/github/labsemco/EVIA-UAEM/blob/main/Representaciones%20Incrustadas/PRACTICA%20PCA-W2V/Wiki_PCA_LSA.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 - Arff files
 - CSV files
+- 

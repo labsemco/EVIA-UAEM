@@ -1,0 +1,39 @@
+Github: https://github.com/labsemco/EVIA-UAEM
+
+1. Clasificación con regresión logística
+La regresión logística es un algoritmo de clasificación que se utiliza para predecir la probabilidad de una variable dependiente categórica. En la regresión logística, la variable dependiente es una variable binaria.
+
+2. Definición del objetivo
+    - ¿Cúal es el problema?
+    - Recopilación 
+    - Preparación de datos
+    - Exploración de los datos
+    - Elección y entrenamiento de modelo
+    - Evaluación del modelo
+    - Análisis de resultados y errores
+
+2. Primer ejercicio de regresión logística (conjunto de datos credit_g.arff)
+- Para ver que significa cada atributo, abrir el archivo con un editor de textos.
+- ¿Qué tipos de datos contiene?
+- Utilizar el modelo de clasificación Logistic y cross validation.
+- Analizar la probabilidad de predicción de la clase con los vaores de los coeficientes.
+- Representarla gráficamente.
+- Obtener resultados. ¿Se puede mejorar?
+- Revisar cuales son los atributos más correlacionados (Select Atributtes)
+- Reaplicar el modelo y ver cuanto incrementa
+- Cambiar configuraciones y buscar un mejor modelo (ridge, eliminar atributos, etc)
+
+3. Ejercicio para realizar (Corpus diabetes)
+- Identificar que significa cada atributo
+- Usar el filtro de normalización ¿Cambia en algo el resultado?
+- Usar una opción de select attributes (CfsSubsetEval)
+- Eliminar atributos que no agregen información 
+- Correr el modelo nuevamente
+
+
+En los problemas de clasificación en donde tenemos que etiquetar entre clases 
+solemos encontrar que en nuestro conjunto de datos de entrenamiento una clase “minoritaria” es decir, 
+de la cual tenemos muy poquitas muestras. Esto provoca un desbalanceo en los datos que utilizaremos para el entrenamiento de nuestra máquina.
+
+
+
